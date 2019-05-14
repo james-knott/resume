@@ -24,15 +24,17 @@ title = "James Knott"
 [params.contacts]
   email = "pythonboto3cookbook@gmail.com"
   github = "james-knott"
-  twitter = "james.knott"
-  facebook = "james.knott"
+  twitter = "Ghettolabs"
+  #facebook = "james.knott"
   linkedin = "buildmystartup"
-  instagram = "james.knott"
+  #instagram = "james.knott"
   stackoverflow = "9773224"
-  keybase = "james.knott"
-  medium = "james.knott"
-  youtube = "pythonboto3cookbook"
+  #keybase = "james.knott"
+  #medium = "james.knott"
+  youtube = "sTShgccz1a6rOeQJYGeFJg/UCsTShgccz1a6rOeQJYGeFJg"
 
 
-
+[[params.actions]]
+  name = "Review My CV"
+  url = "https://james-knott.github.io/james-knott.pdf"
 
